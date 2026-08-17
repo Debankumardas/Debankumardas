@@ -1,70 +1,105 @@
-# Hey there, I'm Deban! 👋
+Hi, I'm Deban Kumar Das D 👋
 
-🎓 BCA Data Science Student  
-🤖 AI/ML Intern  
-💻 Python | SQL | Machine Learning | Generative AI
+BCA Data Science Student | AI/ML Intern | Python | Machine Learning | Data Science
 
-I enjoy building practical AI and machine learning applications
-and learning by working on real projects.
+I'm a BCA Data Science student and currently working as an AI/ML Intern at ScholarX.
 
-## 🧠 About Me
+I enjoy building practical AI, machine learning, and data science applications and learning through hands-on projects.
 
-- 🎓 Pursuing BCA in Data Science
-- 🤖 Currently working as an AI/ML Intern
-- 🔭 Building AI/ML and Data Science projects
-- 🌱 Exploring Generative AI, RAG, NLP and Machine Learning
-- 💡 Interested in turning data and AI concepts into practical applications
+👨‍💻 About Me
 
-## 🛠️ Technologies
+- 🎓 BCA Data Science student
+- 🤖 AI/ML Intern at ScholarX
+- 🏆 President of my college Technical Club
+- 🧠 Interested in Machine Learning, Artificial Intelligence, NLP and Generative AI
+- 🔍 Exploring Retrieval-Augmented Generation (RAG) and LLM applications
+- 📊 Interested in turning data into useful insights and intelligent applications
+- 🚀 Learning by building real projects
 
-### Programming
+🛠️ Tech Stack
+
+Programming & Data
+
 - Python
 - SQL
-
-### Data Science & Machine Learning
 - Pandas
 - NumPy
+
+Machine Learning
+
 - Scikit-learn
 - Machine Learning
 - Data Analysis
+- TF-IDF
+- Text Classification
 
-### AI & Generative AI
+AI & Generative AI
+
 - Natural Language Processing
 - OCR
-- RAG
+- Retrieval-Augmented Generation (RAG)
 - Google Gemini
 - FAISS
 
-### Tools
+Tools & Frameworks
+
 - Git
 - GitHub
 - Streamlit
 - Gradio
 - Jupyter Notebook
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🤖 AI Document Classifier
-AI-powered document classification and information extraction system using OCR,
-TF-IDF and a calibrated Linear SVM.
+🤖 AI-Powered Document Intelligence System
 
-🔗 [View Project](https://github.com/Debankumardas/AI-Document-Classifier)
+An AI-powered document classification and information extraction system using Tesseract OCR, Word & Character TF-IDF, and Calibrated Linear SVM.
 
-### 💬 RAG AI Assistant
-A Retrieval-Augmented Generation assistant that allows users to upload PDF
-documents and ask questions about their content.
+Features:
 
-🔗 [View Project](https://github.com/Debankumardas/RAG-AI-Assistant)
+- 13 document categories
+- OCR-based text extraction
+- Confidence scoring
+- Top-3 predictions
+- Document information extraction
+- Analytics and downloadable reports
 
-## 📊 Data Science Projects
+🔗 "View Project" (https://github.com/Debankumardas/AI-Document-Classifier)
 
-- Netflix Data Analysis
-- Customer Segmentation
-- IPL Analysis
-- Movie Recommendation System
+💬 RAG AI Assistant
 
-## 📫 Connect With Me
+A Retrieval-Augmented Generation AI assistant that allows users to upload PDF documents and ask questions about their content.
 
-- LinkedIn: www.linkedin.com/in/
-debankumardasd
-- GitHub: https://github.com/Debankumardas
+Technologies:
+Python • Google Gemini • FAISS • Sentence Transformers • PyMuPDF • Gradio
+
+🔗 "View Project" (https://github.com/Debankumardas/RAG-AI-Assistant)
+
+📊 Customer Segmentation
+
+A customer intelligence project using RFM analysis, clustering, and machine learning to understand customer behaviour, identify segments, and predict churn.
+
+🔗 "View Project" (https://github.com/Debankumardas/Customer-Segmentation)
+
+📚 Other Projects
+
+- 🎬 Netflix Data Analysis
+- 🎥 Movie Recommendation System
+- 🏏 IPL Data Analysis
+
+🎯 Currently Learning
+
+- Advanced Machine Learning
+- Generative AI
+- RAG & LLM Applications
+- Data Science
+- AI Application Development
+
+📫 Connect With Me
+
+- 💼 "LinkedIn" (https://www.linkedin.com/in/debankumardasd/)
+- 🐙 "GitHub" (https://github.com/Debankumardas)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
