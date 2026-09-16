@@ -38,14 +38,16 @@ I learn primarily through projects — working with datasets, experimenting with
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-### Data Science & Machine Learning
+### 📊 Data Science & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -55,7 +57,7 @@ I learn primarily through projects — working with datasets, experimenting with
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### AI & Computer Vision
+### 🤖 AI & Computer Vision
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -64,7 +66,7 @@ I learn primarily through projects — working with datasets, experimenting with
 <img src="https://img.shields.io/badge/OCR-333333?style=for-the-badge&logo=tesseract&logoColor=white">
 </p>
 
-### Generative AI
+### ✨ Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white">
@@ -72,7 +74,7 @@ I learn primarily through projects — working with datasets, experimenting with
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge">
 </p>
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Tools
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -190,33 +192,11 @@ Reproducible statistical analysis studying the relationship between **study time
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Debankumardas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debankumardas&layout=compact&hide_border=true&langs_count=8" height="170">
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Debankumardas&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Debankumardas/Debankumardas/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
