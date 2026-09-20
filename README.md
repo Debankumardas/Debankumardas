@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-Deban%20Kumar%20Das%20D-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
+<a href="mailto:debankumardas2@gmail.com">
+<img src="https://img.shields.io/badge/Email-debankumardas2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 </div>
 
 ---
@@ -270,6 +274,10 @@ Generative AI
 
 <a href="https://www.linkedin.com/in/debankumardasd/">
 <img src="https://img.shields.io/badge/LinkedIn-Deban%20Kumar%20Das%20D-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:debankumardas2@gmail.com">
+<img src="https://img.shields.io/badge/Email-debankumardas2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
