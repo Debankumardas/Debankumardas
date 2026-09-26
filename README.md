@@ -4,41 +4,45 @@
 
 ### Data Science • Machine Learning • Artificial Intelligence • Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=BCA+Data+Science+Student;Building+Data+%26+AI+Projects;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Exploring+Generative+AI+%26+RAG;Learning+by+Building" alt="Typing SVG">
+**BCA Data Science Student | Building Practical Data & AI Solutions**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Data+Science+%7C+Machine+Learning;Building+Practical+AI+Applications;NLP+%7C+Computer+Vision+%7C+Generative+AI;Exploring+RAG+%26+AI+APIs;Learning+by+Building" alt="Typing SVG">
 
 <br>
 
 <a href="https://github.com/Debankumardas">
-<img src="https://img.shields.io/badge/GitHub-Debankumardas-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Debankumardas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
+&nbsp;
 <a href="mailto:debankumardas2@gmail.com">
-<img src="https://img.shields.io/badge/Email-debankumardas2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a **BCA Data Science student** interested in building practical solutions using **Data Science, Machine Learning, Artificial Intelligence, and Generative AI**.
+I'm a **BCA Data Science student** focused on building practical solutions across **Data Science, Machine Learning, Artificial Intelligence, and Generative AI**.
 
-I learn primarily through projects — working with datasets, experimenting with models, evaluating results, and turning useful ideas into applications.
+I learn by building — from exploring datasets and performing statistical analysis to developing machine learning models and turning them into usable applications and APIs.
 
-* 🎓 BCA Data Science
-* 📊 Data Analysis & Statistics
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* ✨ Generative AI & RAG
-* 👁️ Computer Vision
-* ⚡ AI APIs & Applications
+* 🎓 BCA — Data Science
+* 📊 Data Analysis & Statistical Modeling
+* 🤖 Machine Learning & Model Evaluation
+* 🧠 Artificial Intelligence & Deep Learning
+* ✨ Generative AI, RAG & LLM Applications
+* 👁️ Computer Vision & NLP
+* ⚡ FastAPI & AI-powered Applications
+
+> **My approach:** Understand the problem → Build the solution → Evaluate it → Improve it → Document it.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -53,7 +57,7 @@ I learn primarily through projects — working with datasets, experimenting with
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -74,7 +78,7 @@ I learn primarily through projects — working with datasets, experimenting with
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge">
 </p>
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Developer Tools
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -95,30 +99,30 @@ I learn primarily through projects — working with datasets, experimenting with
 
 <td width="50%" valign="top">
 
-## 🤖 AI Document Classifier
+### 🤖 AI Document Classifier
 
-An ML-based document classification system using **Word + Character TF-IDF** and a **Calibrated Linear SVM**.
+Machine learning system for classifying documents using **Word + Character TF-IDF** and a **Calibrated Linear SVM**.
 
-**Tech:** Python • Scikit-learn • Tesseract • Streamlit
+**Stack:** Python • Scikit-learn • Tesseract • Streamlit
 
 **Test Accuracy:** `91.98%`
 
 <a href="https://github.com/Debankumardas/AI-Document-Classifier">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💬 RAG AI Assistant
+### 💬 RAG AI Assistant
 
-A PDF question-answering application using **Retrieval-Augmented Generation**, embeddings, vector search, and Gemini.
+PDF-based question-answering system using **Retrieval-Augmented Generation**, embeddings, vector search, and Gemini.
 
-**Tech:** Python • Gemini • FAISS • Gradio
+**Stack:** Python • Gemini • FAISS • Gradio
 
 <a href="https://github.com/Debankumardas/RAG-AI-Assistant">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -129,28 +133,28 @@ A PDF question-answering application using **Retrieval-Augmented Generation**, e
 
 <td width="50%" valign="top">
 
-## 👁️ AI Visual Intelligence API
+### 👁️ AI Visual Intelligence API
 
-Computer vision API for **image classification and object detection**.
+Computer vision API designed for **image analysis and object detection**, built with a modern API architecture.
 
-**Tech:** FastAPI • PyTorch • YOLO • EfficientNet
+**Stack:** FastAPI • PyTorch • YOLO • Computer Vision
 
 <a href="https://github.com/Debankumardas/AI-Visual-Intelligence-API">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧩 Dimensionality Reduction & Clustering
+### 🧩 Dimensionality Reduction & Clustering
 
-Unsupervised learning project using **PCA, K-Means, DBSCAN, and Hierarchical Clustering** on the UCI HAR dataset.
+Unsupervised learning project applying **PCA, K-Means, DBSCAN, and Hierarchical Clustering** to the UCI HAR dataset.
 
-**Tech:** Python • Scikit-learn • PCA • Clustering
+**Stack:** Python • Scikit-learn • PCA • Clustering
 
 <a href="https://github.com/Debankumardas/Dimensionality-Reduction-Clustering">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -161,28 +165,28 @@ Unsupervised learning project using **PCA, K-Means, DBSCAN, and Hierarchical Clu
 
 <td width="50%" valign="top">
 
-## 📊 Advanced Statistical Analysis
+### 📊 Advanced Statistical Analysis
 
-Statistical analysis of customer spending using hypothesis testing and ANOVA.
+Statistical investigation of customer spending using **hypothesis testing, ANOVA, Tukey HSD, and effect-size analysis**.
 
-**Methods:** Welch's t-test • ANOVA • Tukey HSD • Effect Size
+**Focus:** Statistical Inference • Experimental Analysis • Effect Size
 
 <a href="https://github.com/Debankumardas/Advanced-Statistical-Analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 Reproducible Student Performance
+### 🎓 Reproducible Student Performance
 
-Reproducible statistical analysis studying the relationship between **study time and student performance**.
+Reproducible statistical analysis exploring the relationship between **study time and student performance**.
 
-**Methods:** Regression • Statistical Inference • Data Validation
+**Focus:** Regression • Statistical Inference • Data Validation
 
 <a href="https://github.com/Debankumardas/Reproducible-Student-Performance">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -202,61 +206,67 @@ Reproducible statistical analysis studying the relationship between **study time
 
 ---
 
-# 🧪 How I Build Projects
+# 🔬 My Project Workflow
+
+<div align="center">
 
 ```text
-Problem
-   ↓
-Data Collection
-   ↓
-Exploration & Cleaning
-   ↓
-Statistical Analysis
-   ↓
-Model Development
-   ↓
-Evaluation
-   ↓
-Application / API
-   ↓
-Documentation
+┌─────────────────────┐
+│       Problem       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   Data Collection   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Exploration & EDA   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Statistical Analysis│
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│  Model Development  │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│    Evaluation       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Application / API   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Documentation       │
+└─────────────────────┘
 ```
 
-I focus on understanding **why** a model works rather than only chasing a higher metric.
+</div>
+
+> I focus on understanding **why a model works**, not just obtaining a high metric.
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Currently Exploring
 
-```text
-Data Science
-     │
-     ├── Statistics
-     ├── Data Analysis
-     └── Visualization
-          │
-          ↓
-Machine Learning
-     │
-     ├── Supervised Learning
-     ├── Unsupervised Learning
-     └── Model Evaluation
-          │
-          ↓
-Artificial Intelligence
-     │
-     ├── NLP
-     ├── Computer Vision
-     └── Deep Learning
-          │
-          ↓
-Generative AI
-     │
-     ├── LLMs
-     ├── RAG
-     ├── Embeddings
-     └── AI Applications
-```
+| Area                           | Focus                                           |
+| ------------------------------ | ----------------------------------------------- |
+| 📊 **Data Science**            | Statistics • EDA • Data Visualization           |
+| 🤖 **Machine Learning**        | Supervised • Unsupervised • Model Evaluation    |
+| 🧠 **Artificial Intelligence** | NLP • Computer Vision • Deep Learning           |
+| ✨ **Generative AI**            | LLMs • RAG • Embeddings • AI Applications       |
+| ⚡ **AI Engineering**           | FastAPI • Model Serving • Production-ready APIs |
+
+---
+
+# 📌 What I'm Building Toward
+
+**Data → Intelligence → Applications**
+
+I'm working toward becoming a strong **Data Scientist / AI Engineer** by combining statistical thinking, machine learning, AI systems, and practical software development.
 
 ---
 
@@ -265,9 +275,9 @@ Generative AI
 <div align="center">
 
 <a href="https://github.com/Debankumardas">
-<img src="https://img.shields.io/badge/GitHub-Deban%20Kumar%20Das%20D-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Deban%20Kumar%20Das%20D-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
+&nbsp;
 <a href="mailto:debankumardas2@gmail.com">
 <img src="https://img.shields.io/badge/Email-debankumardas2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
