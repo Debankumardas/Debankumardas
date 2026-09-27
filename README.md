@@ -4,12 +4,16 @@
 
 ### `Data Science` · `Machine Learning` · `Artificial Intelligence` · `Generative AI`
 
-**BCA Data Science Student building practical solutions with data and AI.**
+**Data Science | AI/ML | Building Practical Intelligent Applications**
 
 <br>
 
 <a href="https://github.com/Debankumardas">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/debankumardasd/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:debankumardas2@gmail.com">
@@ -18,37 +22,37 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&center=true&vCenter=true&width=700&lines=Building+with+Data+%26+AI;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+LLM+Applications;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&center=true&vCenter=true&width=750&lines=Building+with+Data+%26+AI;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+LLM+Applications;Data+Science+%7C+AI+Engineering;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG">
 
 </div>
 
 ---
 
-## 👋 Who I Am
+## 👋 About Me
 
-I'm **Deban Kumar Das D**, a **BCA Data Science student** interested in building practical applications at the intersection of **Data Science, Machine Learning, and Artificial Intelligence**.
+I'm **Deban Kumar Das D**, focused on **Data Science, Machine Learning, Artificial Intelligence, and Generative AI**.
 
-I enjoy taking ideas from **data → experimentation → models → applications** and continuously improving them through hands-on projects.
+I enjoy turning data and ideas into practical solutions — from **exploratory analysis and statistical modeling** to **machine learning systems, computer vision applications, RAG pipelines, and AI-powered APIs**.
+
+My approach is simple:
 
 ```text
 Data
   ↓
-Explore
-  ↓
 Understand
   ↓
-Model
-  ↓
-Evaluate
+Experiment
   ↓
 Build
+  ↓
+Evaluate
   ↓
 Improve
 ```
 
-### What I work with
+### Areas I Work In
 
-`Data Science` · `Machine Learning` · `Statistics` · `NLP` · `Computer Vision` · `Generative AI` · `RAG` · `AI APIs`
+`Data Science` · `Machine Learning` · `Statistics` · `NLP` · `Computer Vision` · `Deep Learning` · `Generative AI` · `RAG` · `AI Engineering`
 
 ---
 
@@ -72,7 +76,7 @@ Built a document classification system using **Word & Character TF-IDF features*
 
 ### 💬 RAG AI Assistant
 
-> **Ask questions from your documents using Generative AI**
+> **Document question-answering powered by Generative AI**
 
 A PDF question-answering system combining **document retrieval, embeddings, vector search, and Gemini**.
 
@@ -86,7 +90,7 @@ A PDF question-answering system combining **document retrieval, embeddings, vect
 
 ### 👁️ AI Visual Intelligence API
 
-> **Computer Vision delivered through a modern API**
+> **Computer Vision delivered through a modern AI API**
 
 An AI-powered vision platform focused on **image analysis and object detection**, built around a FastAPI architecture.
 
@@ -100,7 +104,7 @@ An AI-powered vision platform focused on **image analysis and object detection**
 
 ### 🧩 Dimensionality Reduction & Clustering
 
-> **Finding hidden structure in high-dimensional data**
+> **Discovering hidden patterns in high-dimensional data**
 
 Applied **PCA, K-Means, DBSCAN, and Hierarchical Clustering** to the UCI Human Activity Recognition dataset.
 
@@ -146,14 +150,14 @@ Analyzed the relationship between **study time and student performance** using r
 <tr>
 <td width="50%" valign="top">
 
-### Languages
+### 💻 Languages
 
 * 🐍 Python
 * ⚙️ C++
 * 🔧 C
 * 🗄️ SQL
 
-### Data Science
+### 📊 Data Science
 
 * NumPy
 * Pandas
@@ -165,15 +169,16 @@ Analyzed the relationship between **study time and student performance** using r
 
 <td width="50%" valign="top">
 
-### AI / ML
+### 🤖 AI / ML
 
 * PyTorch
 * OpenCV
 * NLP
 * OCR
 * Computer Vision
+* Deep Learning
 
-### Generative AI
+### ✨ Generative AI
 
 * Google Gemini
 * RAG
@@ -185,7 +190,7 @@ Analyzed the relationship between **study time and student performance** using r
 </tr>
 </table>
 
-### Development Tools
+### ⚡ Development & AI Engineering
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
@@ -229,12 +234,25 @@ Feature Engineering
 
 ### 🤖
 
-**ML / AI**
+**Machine Learning**
 
-ML Models
+Supervised Learning
+Unsupervised Learning
+Model Evaluation
+Optimization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Artificial Intelligence**
+
 Deep Learning
 NLP
 Computer Vision
+OCR
 
 </td>
 
@@ -242,25 +260,12 @@ Computer Vision
 
 ### ✨
 
-**GenAI**
+**Generative AI**
 
 LLMs
 RAG
 Embeddings
 AI Assistants
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**AI Engineering**
-
-FastAPI
-Model Serving
-APIs
-Deployment
 
 </td>
 </tr>
@@ -272,11 +277,11 @@ Deployment
 
 ```text
         ┌──────────────────┐
-        │  Identify Problem │
+        │ Identify Problem │
         └────────┬─────────┘
                  ↓
         ┌──────────────────┐
-        │  Collect Data    │
+        │ Understand Data  │
         └────────┬─────────┘
                  ↓
         ┌──────────────────┐
@@ -300,32 +305,40 @@ Deployment
         └──────────────────┘
 ```
 
-> **I don't just train models. I try to understand the problem, validate the results, and turn the solution into something usable.**
+> **I don't just build models. I focus on understanding the problem, validating the results, and turning ideas into usable AI solutions.**
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Exploring
 
-**Deep Learning**
-Neural Networks · Computer Vision · NLP
+### 🧠 Machine Learning & Deep Learning
 
-**Generative AI**
-LLMs · RAG Pipelines · Embeddings · Vector Search
+Neural Networks · Computer Vision · NLP · Model Optimization
 
-**AI Engineering**
-FastAPI · Model Serving · AI Application Architecture
+### ✨ Generative AI
 
-**Data Science**
-Statistics · Feature Engineering · Model Evaluation
+LLMs · RAG Pipelines · Embeddings · Vector Search · AI Assistants
+
+### ⚡ AI Engineering
+
+FastAPI · Model Serving · AI APIs · Application Architecture
+
+### 📊 Data Science
+
+Statistics · Feature Engineering · EDA · Model Evaluation
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Debankumardas">
 <img src="https://img.shields.io/badge/GitHub-Deban%20Kumar%20Das%20D-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/debankumardasd/">
+<img src="https://img.shields.io/badge/LinkedIn-Deban%20Kumar%20Das%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:debankumardas2@gmail.com">
